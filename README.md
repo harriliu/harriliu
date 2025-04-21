@@ -21,6 +21,4 @@ When I'm not training neural networks or explaining why the sky is blue for the 
 - Debugging life: ████████ 40%
 - Dad jokes that land successfully: █ 5%
 
-> "In our house, we don't say 'I love you' - we say 'I cleaned your dataset and normalized all the variables' which means the same thing."
-
 🔍 Looking to collaborate on projects that make the world better for the next generation!
